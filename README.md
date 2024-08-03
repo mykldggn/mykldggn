@@ -11,7 +11,7 @@ Hoping to store the majority of my projects on this profile! Would appreciate fe
 Technical Skills: 
 * 🐍 PYTHON 
   * 📚 General Libraries: Pandas, NumPy
-  * 📦 DS Packages: Scikit-Learn, Tensorflow, 
+  * 📦 DS Packages: Scikit-Learn, Tensorflow
   * 😎 Visualization Packages: Seaborn, matplotlib, statsmodels
 * 🗄️ SQL, R
 * 📊 TABLEAU
