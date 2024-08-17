@@ -1,4 +1,4 @@
-### Hi 👋, my name is Michael
+### Hi 👋, my name is Michael!
 #### I am a current Graduate student at the University of Washington studying Machine Learning through the MSIS program.
 
 [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mykldggn)](https://github.com/anuraghazra/github-readme-stats)
