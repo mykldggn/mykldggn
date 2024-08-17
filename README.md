@@ -14,7 +14,7 @@ Technical Skills:
   * 📦 DS Packages: Scikit-Learn, Tensorflow
   * 😎 Visualization Packages: Seaborn, matplotlib, statsmodels
 * 🗄️ SQL, R
-* 📊 TABLEAU
+* 📊 Tableau, PowerBI, Looker
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mykldggn)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miklduggan/)  
 
