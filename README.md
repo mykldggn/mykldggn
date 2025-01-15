@@ -1,7 +1,7 @@
 ### Hi 👋, my name is Michael!
 #### I am a current Graduate student at the University of Washington studying Machine Learning through the MSIS program.
 
-# [My Portfolio](mykldggn.github.io)
+# [My Portfolio]([mykldggn.github.io](https://mykldggn.github.io))
 
 [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mykldggn)](https://github.com/anuraghazra/github-readme-stats)
 
