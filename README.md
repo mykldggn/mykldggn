@@ -3,8 +3,6 @@
 
 # [My Portfolio](https://mykldggn.github.io)
 
-[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mykldggn)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 Profile is currently a major WIP 😅 but feel free to check out my LinkedIN below and connect.
 - My current plans are to land a Data Science/ML role in the Greater Seattle Area upon graduation!
 
